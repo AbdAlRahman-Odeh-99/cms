@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462140115131",
+    "firebase_url": "https://project-cms-692bb.firebaseio.com",
+    "project_id": "project-cms-692bb",
+    "storage_bucket": "project-cms-692bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462140115131:android:f99d2c1f2b21292d5dc19e",
+        "android_client_info": {
+          "package_name": "com.training.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462140115131-55lkd2jv7sp2keepv05proccfpa57hah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhM-Ihz3h2iCnTsgHUHCTK1FFGXd6qKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462140115131-55lkd2jv7sp2keepv05proccfpa57hah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
